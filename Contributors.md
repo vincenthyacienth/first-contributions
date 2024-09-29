@@ -2,9 +2,10 @@
 - Hello World! I'm [Ronak Singh ](https://github.com/ronaksingh27). **Cheers to the community of never ending learning!**
 - [Jitendra Kumar ](https://github.com/zsquare12)
 - Hello World! I'm [Shankhya Subhra Chatterjee](https://github.com/SSC-SDE). **Cheers to the community of never ending learning!**
-- Hello World! I'm [Mayank Patel](https://github.com/MayANKPaTeL2303) from IIT Bhilai currently pursing my BTech in computer science. Let's connect on [LinkedIn](https://www.linkedin.com/in/mayank-patel-555163253/) **Cheers to the community of never ending learning!**
+- Hello World! I'm [Mayank Patel](https://github.com/MayANKPaTeL2303) from IIT Bhilai currently pursing my BTech in computer science. Let's connect on [LinkedIn](https://www.linkedin.com/in/mayank-patel-555163253/) **Cheers to the community of never-ending learning!**
 - Hello, nice to meet you, I will find my way someday(https://github.com/young-ye).**cheer up!**
 - el
+- Hello World! I'm [Hyacienth Ugochukwu](https://github.com/vincenthyacienth). **Cheerrs to the community of never-ending learning!**
 - [Dumitrescu Richárd Ádám] (https://github.com/Trescu) **newbie**
 - [nchong128](https://github.com/nchong128) was here!
 - Hello People this is my First time Github!. [Taeos](https://github.com/taeos). 
