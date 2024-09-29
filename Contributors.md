@@ -69,6 +69,7 @@
 - [Avanish Mallya] **My First Contribution**
 - [Thelen] **First contribution
 - [JavaScribeXixi2024] **My First Contribution**
+- [BeringeloF] **Eu estive aqui**
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
@@ -194,6 +195,7 @@ Jojo
 - [Supriya Mare](https://github.com/SupriyaMare) **Hey there! Starting my first contribution!**
 - [Akram Aouiche](https://github.com/AAouiche/) **thanks for teaching me this**
 - [Kausheya2006]  **first time using git    clone > switch -c > add > commit -m **
+- [Hima Vamshi](https://github.com/mhimavamshi) **im learning things**
 - [Karthik Arulmani](https://github.com/Kartell-stack/Kartell-stack) **My first step into the tech world**
 - [Moses Kubeka] (https://github.com/bit-bytes-101/) **Code Blooded**
 - [Christopher Evangelista](https://github.com/cevangel/) **first contribution**
@@ -233,6 +235,7 @@ I am glad to use Github
 - [jdd](https://github.com/jadynlaila) **first contribution!**
 - [Rakesh Mishra](https://github.com/NameawaShinderu) **Starting with a small contribution**
 - [deepak kumar](https://github.com/Deepak-kumar-2023)**i am good**
+- [DeepAung](https://github.com/DeepAung) **Hello World!!!**
 - [Santiago Ocampo](https://github.com/santiocampo1)**Nice**
 - I'm [jjasardi](https://github.com/jjasardi) **Yabadabadu!**
 - [Carlos](https://github.com/DevmonCoder) **First contribution - Committed to learn and build amazing things with the community! 🌱🔧!**
